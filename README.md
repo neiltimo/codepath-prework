@@ -1,4 +1,5 @@
 #CodePath Introduction Prework 
+
 App Description
 Sends out an alert introducing the user with the following: First Name, Last Name, School, Number pets, and if more pets are desired.
 
