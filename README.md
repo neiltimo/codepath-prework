@@ -6,8 +6,6 @@ Sends out an alert introducing the user with the following: First Name, Last Nam
 App Walk-through
 https://github.com/neiltimo/codepath-prework/blob/main/NeilSuarez_Prework.gif
 
-In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 Required Features
 1. [x] App displays an image of a school's logo
 2. [x] App has three textfields for first, last, and school names
