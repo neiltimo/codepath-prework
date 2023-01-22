@@ -1,12 +1,12 @@
 #CodePath Introduction Prework 
 
-App Description
+App Description:
 Sends out an alert introducing the user with the following: First Name, Last Name, School, Number pets, and if more pets are desired.
 
 App Walk-through
 https://github.com/neiltimo/codepath-prework/blob/main/NeilSuarez_Prework.gif
 
-TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 Required Features
 1. [x] App displays an image of a school's logo
